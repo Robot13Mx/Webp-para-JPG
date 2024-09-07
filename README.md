@@ -1,6 +1,6 @@
 **Para que serve esse SCRIPT?**
 
-Esse script tem a finalidade de ajudar usuários que usam Android, e precisa converter imagens webp para jpg!
+Esse script tem a finalidade de ajudar usuários que usam Android (Mas funcionará em qualquer dispositivo que tenha Python), e precisa converter imagens webp para jpg!
 ___
 
 **Como instalar?**
